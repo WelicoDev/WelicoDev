@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Library Api](https://github.com/WelicoDev/LIbrary)
 
-- 🌱 I’m currently learning **Mohirdev , W3school**
+- 🌱 I’m currently learning **Mohirdev , W3school** , PDP
 
 - 👯 I’m looking to collaborate on [Aiogram Template](https://github.com/WelicoDev/Aiogram-Template)
 
