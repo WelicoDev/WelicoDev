@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/xurramov_otabek" target="blank"><img src="https://img.shields.io/twitter/follow/xurramov_otabek?logo=twitter&style=for-the-badge" alt="xurramov_otabek" /></a> </p>
 
-- 🔭 I’m currently working on [Library Api](https://github.com/WelicoDev/LIbrary_APi)
+- 🔭 I’m currently working on [Library Api](https://github.com/WelicoDev/LIbrary)
 
 - 🌱 I’m currently learning **Mohirdev , W3school**
 
